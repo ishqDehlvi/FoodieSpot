@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "customer_name": "John Doe",
+        "date": "2023-11-01",
+        "time": "18:00",
+        "restaurant_id": 1,
+        "seats": 5
+    },
+    {
+        "customer_name": "John Doe",
+        "date": "2023-11-01",
+        "time": "18:00",
+        "restaurant_id": 1,
+        "seats": 5
+    }
+]

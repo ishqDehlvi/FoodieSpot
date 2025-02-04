@@ -1,0 +1,26 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "FoodieSpot Downtown",
+    "location": "Downtown",
+    "cuisine": "Italian",
+    "seating_capacity": 100,
+    "special_event_spaces": ["Private Dining", "Rooftop"],
+    "availability": {
+      "2023-11-01": { "18:00": 20, "19:00": 10 },
+      "2023-11-02": { "18:00": 30, "19:00": 5 }
+    }
+  },
+  {
+    "restaurant_id": 2,
+    "name": "FoodieSpot Uptown",
+    "location": "Uptown",
+    "cuisine": "Mexican",
+    "seating_capacity": 75,
+    "special_event_spaces": ["Banquet Hall"],
+    "availability": {
+      "2023-11-01": { "18:00": 15, "19:00": 5 },
+      "2023-11-02": { "18:00": 25, "19:00": 10 }
+    }
+  }
+]
